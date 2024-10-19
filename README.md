@@ -6,7 +6,7 @@ Making games, Made easy.
 ## Required Tools
 
 - the Dart and Flutter SDK
-- Android SDK (optional, for build for Android)
+- Android SDK (optional, for build for Android)  (for in use in the studio, not for building the studio)
 - A computer, of course :) (Running Windows 10+, GNU/Linux, or macOS)
 - A code editor or IDE (e.g., Visual Studio Code, IntelliJ IDEA)
 
