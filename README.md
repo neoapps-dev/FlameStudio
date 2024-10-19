@@ -9,3 +9,6 @@ Making games, Made easy.
 - Android SDK (optional, for build for Android)
 - A computer, of course :) (Running Windows 10+, GNU/Linux, or macOS)
 - A code editor or IDE (e.g., Visual Studio Code, IntelliJ IDEA)
+
+
+#### NOTE: THIS IS STILL IN ALPHA, NOT WORKING RIGHT NOW. JUST A UI.
